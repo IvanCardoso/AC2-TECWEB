@@ -1,0 +1,57 @@
+﻿body{
+    background-color:#e8f0fe;
+}
+.tudo{
+    width: 800px;					
+    margin-right: auto;				
+    margin-left: auto;
+    background-color: #FFF;	
+  }
+
+.formulario{
+   padding:50px;
+  width: 700px;				
+  margin-right: auto;				
+  margin-left: auto;
+  }
+
+.titulo{
+    font-size: 34px;
+    font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    }
+
+label{
+    font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    display: block;
+    height: 10px;					
+    width: 100ps;
+}
+
+input{
+    width: 300px;					
+    height: 30px;					
+    font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;	
+    color: #000;					
+    font-size: 14px;				
+    }
+        
+#escolha{
+    width: 50px;				
+    height: 20px;	
+}
+
+#botao{
+    width: 60px;					
+    height: 40px;
+    cursor: pointer;
+    background-color:#4285f4;
+    color: #FFF;	
+}
+
+.texto{
+    padding:50px;
+   width: 700px;				
+   margin-right: auto;				
+   margin-left: auto;
+   font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+   }
